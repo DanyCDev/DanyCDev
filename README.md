@@ -3,6 +3,7 @@
 👋 I'm a developer who does every stupid thing that comes to my mind.
 
 ## What I can?
+(https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/master/js.png) (https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/master/java.jpg)
 
 
 
