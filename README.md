@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/DanyCoolDev">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHyroM&theme=dark&layout=compact"/>
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=DanyCoolDev&show_icons=true&theme=dark"/>
 </a>
 
 <br>
