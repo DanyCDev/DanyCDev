@@ -3,8 +3,7 @@
 👋 I'm a developer who does every stupid thing that comes to my mind.
 
 ## What I can?
-<img src="https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/master/js.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/master/java.jpg" width="50" height="50"> <img src="https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/main/php1.png" width="80" height="50"> <img src="https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/master/html.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/main/c%23.png" width="50" height="80">
-
+<img src="https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/master/js.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/master/java.jpg" width="50" height="50"> <img src="https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/main/php1.png" width="80" height="50"> <img src="https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/master/html.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/main/c%23.png" width="80" height="50">
 
 
 
