@@ -3,7 +3,7 @@
 👋 I'm a developer who does every stupid thing that comes to my mind.
 
 ## What I can?
-[JS](https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/master/js.png) [JAVA](https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/master/java.jpg)
+[![BACK](https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/master/js.png)]
 
 
 
