@@ -1,7 +1,9 @@
 [![BACK](https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/master/bck.png)](https://danycool.eu)
 
+👋 I'm a developer who does every stupid thing that comes to my mind.
 
-I am JavaScript, PHP, Java, HTML and C# developer.
+## What I can?
+
 
 
 
