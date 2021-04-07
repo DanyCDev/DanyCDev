@@ -1,6 +1,6 @@
 [![BACK](https://raw.githubusercontent.com/DanyCoolDev/DanyCoolDev/master/bck.png)](https://danycool.eu)
 
-👋 I'm a developer who does every stupid thing that comes to my mind.
+👋 I'm a student developer who does every stupid thing that comes to my mind.
 ##### 🌐 My Web : https://danycool.eu
 
 ## ✔ What I can?
