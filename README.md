@@ -3,7 +3,7 @@
 👋 I'm a student developer who does every stupid thing that comes to my mind.
 </br>
 Currently, I am learning Python.
-##### 🌐 My Web : https://games.kmaster.ovh
+##### 🌐 My Web : https://danycdev.fun
 
 ## ✔ What I can?
 <img src="https://raw.githubusercontent.com/DanyCDev/DanyCDev/master/js.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/DanyCDev/DanyCDev/master/java1.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/DanyCDev/DanyCDev/main/php1.png" width="80" height="50"> <img src="https://raw.githubusercontent.com/DanyCDev/DanyCDev/master/html.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/DanyCDev/DanyCDev/main/c%23.png" width="80" height="50">
